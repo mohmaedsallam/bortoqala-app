@@ -1,0 +1,28 @@
+{
+  "common": {
+    "back": "Back",
+    "switchToArabic": "Switch to Arabic",
+    "switchToEnglish": "Switch to English",
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "retry": "Try Again",
+    "noData": "No data available"
+  },
+  "postsScreen": {
+    "title": "Posts",
+    "loading": "Loading posts...",
+    "error": "Error loading posts",
+    "empty": "No posts found",
+    "readMore": "Read more"
+  },
+  "detailsScreen": {
+    "title": "Post Details",
+    "author": "Author",
+    "loading": "Loading details...",
+    "error": "Error loading details",
+    "notFound": "Post not found",
+    "invalidId": "Invalid post ID",
+    "contactInfo": "Contact Information",
+    "company": "Company"
+  }
+}
