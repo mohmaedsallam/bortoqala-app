@@ -90,7 +90,7 @@ A React Native application that displays posts from JSONPlaceholder API with sup
 
 - **SOLID Principles**: The application follows SOLID principles with clear separation of concerns
 - **Component Structure**: Components are designed to be reusable and have single responsibilities
-- **State Management**: Redux is used for global state, while component state is used for local UI state
+- **State Management**: Redux is used for global state 
 
 ### Data Fetching
 
