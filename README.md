@@ -1,8 +1,15 @@
-# Posts App
+# Bortoqala App
 
 A React Native application that displays posts from JSONPlaceholder API with support for multiple languages and RTL layouts.
 
-![Posts App Screenshot](https://via.placeholder.com/300x600?text=Posts+App)
+<div align="left">
+  <img src="https://github.com/user-attachments/assets/67c4fa21-ae77-4f30-924c-825be9f1b9ba" alt="Image 1" width="24%" />
+  <img src="https://github.com/user-attachments/assets/755a88d6-1ad0-4f42-a2ee-11ff1706b3e7" alt="Image 2" width="24%" />
+  <img src="https://github.com/user-attachments/assets/df57f4bb-4f5d-4e9f-b742-53263330ca70" alt="Image 3" width="24%" />
+   <img src="https://github.com/user-attachments/assets/39658640-e4a1-47e9-8a8c-90bf548e0e80" alt="Image 4" width="24%" />
+</div>
+
+
 
 ## Features
 
@@ -12,7 +19,6 @@ A React Native application that displays posts from JSONPlaceholder API with sup
 - Right-to-Left (RTL) layout support for Arabic
 - Pull-to-refresh functionality
 - Error handling with retry options
-- Responsive design
 
 ## Tech Stack
 
@@ -36,8 +42,8 @@ A React Native application that displays posts from JSONPlaceholder API with sup
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/mohmaedsallam/postsApp.git
-   cd postsApp
+   git clone https://github.com/mohmaedsallam/bortoqala-app.git
+   cd bortoqala-app
    ```
 
 2. Install dependencies:
@@ -110,18 +116,6 @@ A React Native application that displays posts from JSONPlaceholder API with sup
 - The JSONPlaceholder API is assumed to be available and return data in the expected format
 - The app is designed primarily for mobile devices in portrait orientation
 - Internet connectivity is required for the initial data fetch, after which some data may be available offline through caching
-
-## Contributing
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acknowledgments
 
